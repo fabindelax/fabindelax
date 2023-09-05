@@ -1,13 +1,13 @@
-Danilo Luiz 🙋‍♂️
+Fabio Augusto
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-augusto007/) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.fabiin._/) 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fabindelax/fabindelax)
 
 
 
-<img height=180em src="https://github-readme-stats.vercel.app/api?username=Nestrovick&show_icons=true&theme=dark#gh-dark-mode-only https://github.com/medonca09/github-readme-stats#gh-dark-mode-only"/> 
+<img height=180em src="https://github-readme-stats.vercel.app/api?username=fabindelax&show_icons=true&theme=dark#gh-dark-mode-only https://github.com/fabindelax/github-readme-stats#gh-dark-mode-only"/> 
 
-<img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nestrovick&&theme=dark"/>
+<img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabindelax&&theme=dark"/>
 
 <div style="display: inline_bloc">
 
