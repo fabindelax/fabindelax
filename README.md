@@ -7,7 +7,7 @@ Danilo Luiz 🙋‍♂️
 
 <img height=180em src="https://github-readme-stats.vercel.app/api?username=Nestrovick&show_icons=true&theme=dark#gh-dark-mode-only https://github.com/medonca09/github-readme-stats#gh-dark-mode-only%22%3E 
 
-<img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nestrovick&&theme=dark%22%3E
+<img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nestrovick&&theme=dark"/>
 
 <div style="display: inline_bloc">
 
